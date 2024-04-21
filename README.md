@@ -16,6 +16,11 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
  Design:
 
  Circuits:
+For our project, we used two seperate Arduinos to run everything. One Arduino controlled the temperature and water level system and the other controlled the feeder system. These Arduinos are not in communication with eachother. We thought this would be best in order to simplify the code, and if one system failed to work, the other one could still work.
+
+<p align="center">
+  <img src="https://github.com/elibarrow/Final-Project/blob/main/Monitoring%20System%20Documents/Temp%20%26%20Water%20Level%20Circuit/Schematics/Screenshot%202024-04-06%20at%2011.44.04%20AM.png">
+</p>
 
  Code:
 
