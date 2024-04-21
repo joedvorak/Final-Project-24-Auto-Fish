@@ -22,6 +22,10 @@ For our project, we used two seperate Arduinos to run everything. One Arduino co
   <img src="https://github.com/elibarrow/Final-Project/blob/main/Monitoring%20System%20Documents/Temp%20%26%20Water%20Level%20Circuit/Schematics/Screenshot%202024-04-06%20at%2011.44.04%20AM.png">
 </p>
 
+<p align="center">
+  <img src="https://github.com/elibarrow/Final-Project/blob/main/Feeding%20System%20Documents/Final%20Code%20for%20Feeder%20%26%20LCD/Schematics/Image%20of%20Schematic.png">
+</p>
+
  Code:
 
  Assembly:
