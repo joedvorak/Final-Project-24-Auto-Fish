@@ -24,9 +24,9 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
  - 2 Red LEDs
  - 1 Float Switch
  - 1 Thermistor
- - 4 1kOhm Resistors
+ - 6 1kOhm Resistors 
  - 1 10kOhm Precision Resistor (for thermistor)
- - 3 10 kOhm Resistor
+ - 1 10 kOhm Resistor
  
 
  ### Physical Design: 
