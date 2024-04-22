@@ -25,10 +25,11 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
  - 1 Thermistor
  - 4 1kOhm Resistors
  - 1 10kOhm Precision Resistor (for thermistor)
- - 1 10 kOhm Resistor
+ - 3 10 kOhm Resistor
+ - 1 Stepper motor
  
 
- **Design:**
+ **Physical Design:**
 
  **Circuits:**
 For our project, we used two seperate Arduinos to run everything. One Arduino controlled the temperature and water level system and the other controlled the feeder system. These Arduinos are not in communication with eachother. We thought this would be best in order to simplify the code, and if one system failed to work, the other one could still work.
@@ -45,7 +46,7 @@ The above schematic is for the temperature and water level sensor system. It use
   <img src="https://github.com/elibarrow/Final-Project/blob/main/Feeding%20System%20Documents/Final%20Code%20for%20Feeder%20%26%20LCD/Schematics/Image%20of%20Schematic.png">
 </p>
 
-This schematic is for the feeding sysytem. It consists of an Arduino Uno Board, a common breadboard, 
+This schematic is for the feeding sysytem. It consists of an Arduino Uno Board, a common breadboard, two 10kOhm resistors, two potentiometers, two push buttons, a LCD screen, and 
 
  Code:
 
