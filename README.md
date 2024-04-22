@@ -40,7 +40,7 @@ The design of the feeding system was a small hopper with an auger in the bottom 
 For our project, we used two seperate Arduinos to run everything. One Arduino controlled the temperature and water level system and the other controlled the feeder system. These Arduinos are not in communication with eachother. We thought this would be best in order to simplify the code, and if one system failed to work, the other one could still work.
 
 <p align="center">
-  <img src="https://github.com/elibarrow/Final-Project/blob/main/Monitoring%20System%20Documents/Temp%20%26%20Water%20Level%20Circuit/Schematics/Screenshot%202024-04-06%20at%2011.44.04%20AM.png">
+  <img src="https://github.com/elibarrow/Final-Project/blob/main/Monitoring%20System%20Documents/Temp%20%26%20Water%20Level%20Circuit/Schematics/Screenshot%202024-04-06%20at%2011.44.04%20AM.png" width = 50%>
 </p>
 
 **NOTE:** The push button on this schematic is representing the float switch. The software used did not provide a float switch so this was best option. The resistor connected to the thermistor is the 10k precision resistor.
@@ -48,7 +48,7 @@ For our project, we used two seperate Arduinos to run everything. One Arduino co
 The above schematic is for the temperature and water level sensor system. It uses an Arduino Uno Board, a common breadboard, a 10kOhm precision resistor, four 1kOhm resistor, two red LEDs, two green LEDs, a thermistor, a potentiometer, a float switch, and a LCD screen. The potentiometer is to control the contrast of the LCD screen. This screen displays both the temperature and the waterlevel information.
 
 <p align="center">
-  <img src="https://github.com/elibarrow/Final-Project/blob/main/Feeding%20System%20Documents/Final%20Code%20for%20Feeder%20%26%20LCD/Schematics/Image%20of%20Schematic.png">
+  <img src="https://github.com/elibarrow/Final-Project/blob/main/Feeding%20System%20Documents/Final%20Code%20for%20Feeder%20%26%20LCD/Schematics/Image%20of%20Schematic.png" width = 50%>
 </p>
 
 This schematic is for the feeding sysytem. It consists of an Arduino Uno Board, a common breadboard, two 10kOhm resistors, two potentiometers, two push buttons, a LCD screen, and 
