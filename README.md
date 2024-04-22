@@ -1,4 +1,4 @@
-# Final-Project: Automatic Fish Tank Feeder
+# BAE305 Final Project: Automatic Fish Tank Feeder
 ***BAE305 Final Project***
 * Eli Barrow
 * Alexis Puckett
