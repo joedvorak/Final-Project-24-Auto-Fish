@@ -40,6 +40,8 @@ The design of the feeding system was a small hopper with an auger in the bottom 
   <img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Feeder/Feeder%20Bracket/HOPPER%20STAND.png" width = 50%><img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Feeder/Assembly/Feeding%20Assembly.png" width = 50%>
 </p>
 
+**Link for Onshape Feeder Files:**
+https://cad.onshape.com/documents/4df08dd93363a5b6d688b396/w/b2cb09403d87c3bcf0b51dba/e/0a122a04bef23e0f82b38aa6?renderMode=0&uiState=6621793480254631186acf1b
  
 
  **Circuits:**
@@ -79,7 +81,25 @@ The design of this system was purely driven by one of the group member's experie
 
 
 
+
+
+
+
+
+
  
+
+ 
+
+
+
+
+
+
+
+
+
+
 
  
 
