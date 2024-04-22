@@ -17,6 +17,7 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
  - Ability to connect the Uno to your computer
  - Approx. 50 wires that're compatable with the Arudino, Breadboard, and components
  - 2 LCD Screens
+ - 1 5V DC Stepper Motor
  - 3 Potentiometers
  - 2 Push buttons
  - 2 Green LEDs
@@ -26,10 +27,14 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
  - 4 1kOhm Resistors
  - 1 10kOhm Precision Resistor (for thermistor)
  - 3 10 kOhm Resistor
- - 1 Stepper motor
  
 
- **Physical Design:**
+ **Physical Design:**   
+
+The design of the feeding system was a small hopper with an auger in the bottom of it that would be turned by a stepper motor to slowly push the food out of the front of the hopper body. There is a hole that runs from the back of the hopper body to the front of the hopper body where the auger slides into, with a stop being placed on the front side that does not allow the auger to slide all the way through. Below this stop is the funnel shape that the food will slide down into the tank to reach the fish. The base of the auger is specially designed to allow the shaft of the stepper motor to mate into the auger, connecting the two for a smooth rotational motion. The stepper motor came with a screw mounting bracket on each side, we then measured the size of those holes with calipers then created two extrusions on the back side of the hopper that would be used to mount the stepper motor. Then finally for a flush fit of the auger with the back wall of the hopper body some spacers were needed to be put on the shaft to create the proper offset of the stepper motor. The type of food that is normally given to the fish is very small spherical pellets that would almost flow fluidly in a system like this, so this design is what the team moved forward with. The design drawings of the Hopper, Auger, and Spacers are shown below, as well as links to the online design file through OnShape, where the .stl files can be exported for 3D printing purposes.
+
+
+ 
 
  **Circuits:**
 For our project, we used two seperate Arduinos to run everything. One Arduino controlled the temperature and water level system and the other controlled the feeder system. These Arduinos are not in communication with eachother. We thought this would be best in order to simplify the code, and if one system failed to work, the other one could still work.
@@ -58,4 +63,26 @@ This schematic is for the feeding sysytem. It consists of an Arduino Uno Board, 
 
 ## Design Decision Discussion
 
+The design of this system was purely driven by one of the group member's experience with being away from a fishtank at their home for an extended period of time and not being able to feed their fish. After the group began considering this, the others then added some other features to add to the system, rather than just making a fish feeder. This ultimatley lead the group to pursue a design that included an automatic feeder, water temperature monitor and a water level monitor. The mechanical design of the project was strictly driven by the constraits that were presented by the fish tank that it was being designed for. The fish tank did not have a viable place for a feeder to sit on the lid, but there is an opening in the backside of the lid that would allow for the feeder to be attached to the glass, as well as the addition of a temperature sensor and water level sensor. Since this project had a budget of $0 we chose materials that were very cheap and used online software that is free to use, such as OnShape and TinkerCAD.
+
 ## Results
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
