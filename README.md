@@ -36,12 +36,26 @@ The design of the feeding system was a small hopper with an auger in the bottom 
 <p align="center">
   <img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Feeder/Feeder/Hopper.png" width = 50%><img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Feeder/Auger%20%26%20HexSpacer/Auger.png" width = 50%>
 </p>
+
 <p align="center">
   <img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Feeder/Feeder%20Bracket/HOPPER%20STAND.png" width = 50%><img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Feeder/Assembly/Feeding%20Assembly.png" width = 50%>
 </p>
 
 **Link for Onshape Feeder Files:**
 https://cad.onshape.com/documents/4df08dd93363a5b6d688b396/w/b2cb09403d87c3bcf0b51dba/e/0a122a04bef23e0f82b38aa6?renderMode=0&uiState=6621793480254631186acf1b
+
+
+ After designing the Feeding system there was also a need to mount the thermistor and float switch to the back glass of the fish tank alongside the feeder. This only needed a few measurements taken of the float switch diameter and thermistor wire diameter to make a simple bracket, similar to the hopper bracket. The drawing file is shown below and is accomanied with a link to OnShape.
+
+
+<p align="center">
+  <img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Temp%26Float%20Switch%20Bracket/Float%20Switch%20Bracket%20Drawing.png" width = 50%>
+</p>
+
+
+**Link for Onshape Float Switch & Thermistor Bracket Files:**   
+https://cad.onshape.com/documents/ca7b3c8a11bfe362b02dd540/w/57267339f03928a64975b33e/e/b6ae37b48c85a3c1fea425d9?renderMode=0&uiState=6621795a283cfb13c7dd5678
+
  
 
  **Circuits:**
