@@ -11,8 +11,21 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
 ## Design Description
 
  **Materials:**  
- For this project the materials needed are simple electrical components as well as the ability to access a 3D printer to print off some of the larger mechanical parts of the system.
+ For this project the materials needed are simple electrical components as well as the ability to access a 3D printer to print the larger mechanical parts of the system.
  The electrical components needed are:
+ - 2 Arduino Uno Boards with Breadboards
+ - Ability to connect the Uno to your computer
+ - Approx. 50 wires that're compatable with the Arudino, Breadboard, and components
+ - 2 LCD Screens
+ - 3 Potentiometers
+ - 2 Push buttons
+ - 2 Green LEDs
+ - 2 Red LEDs
+ - 1 Float Switch
+ - 1 Thermistor
+ - 4 1kOhm Resistors
+ - 1 10kOhm Precision Resistor (for thermistor)
+ - 1 10 kOhm Resistor
  
 
  **Design:**
@@ -23,6 +36,8 @@ For our project, we used two seperate Arduinos to run everything. One Arduino co
 <p align="center">
   <img src="https://github.com/elibarrow/Final-Project/blob/main/Monitoring%20System%20Documents/Temp%20%26%20Water%20Level%20Circuit/Schematics/Screenshot%202024-04-06%20at%2011.44.04%20AM.png">
 </p>
+
+**NOTE:** The push button on this schematic is representing the float switch. The software used did not provide a float switch so this was best option. The resistor connected to the thermistor is the 10k precision resistor.
 
 <p align="center">
   <img src="https://github.com/elibarrow/Final-Project/blob/main/Feeding%20System%20Documents/Final%20Code%20for%20Feeder%20%26%20LCD/Schematics/Image%20of%20Schematic.png">
