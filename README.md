@@ -17,7 +17,7 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
  - Ability to connect the Uno to your computer
  - Approx. 50 wires that're compatable with the Arudino, Breadboard, and components
  - 2 LCD Screens
- - 1 5V DC Stepper Motor
+ - 1 5V DC Stepper Motor (ROHS 28byj-48)
  - 3 Potentiometers
  - 2 Push buttons
  - 2 Green LEDs
