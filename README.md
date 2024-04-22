@@ -57,7 +57,7 @@ The above schematic is for the temperature and water level sensor system. It use
   <img src="https://github.com/elibarrow/Final-Project/blob/main/Feeding%20System%20Documents/Final%20Code%20for%20Feeder%20%26%20LCD/Schematics/Image%20of%20Schematic.png" width = 50%>
 </p>
 
-This schematic is for the feeding sysytem. It consists of an Arduino Uno Board, a common breadboard, two 10kOhm resistors, two potentiometers, two push buttons, a LCD screen, and 
+The above schematic is for the temperature and water level sensor system. It uses an Arduino Uno Board, a common breadboard, a 10kOhm precision resistor, four 1kOhm resistor, two red LEDs, two green LEDs, a thermistor, a potentiometer, a float switch, and a LCD screen. The potentiometer is to control the contrast of the LCD screen. This screen displays both the temperature and the water level information.
 
  Code:
 
