@@ -56,6 +56,11 @@ https://cad.onshape.com/documents/4df08dd93363a5b6d688b396/w/b2cb09403d87c3bcf0b
 **Link for Onshape Float Switch & Thermistor Bracket Files:**   
 https://cad.onshape.com/documents/ca7b3c8a11bfe362b02dd540/w/57267339f03928a64975b33e/e/b6ae37b48c85a3c1fea425d9?renderMode=0&uiState=6621795a283cfb13c7dd5678
 
+**Picture of Assembly on Tank with Hopper and Float Switch Bracket:**
+<p align="center">
+  <img src="https://github.com/elibarrow/Final-Project/blob/main/Real%20Pictures/IMG_3664.jpg" width = 50%>
+</p>
+
 
 Once the measuremnet tools and feeding systems were designed the only piece remaining was a panel for the user to control the system with. The group had previously put together the circuits for the project and had previously known that we need positions for a selecting button, reset button, a potentiometer for choosing the time interval, spaces for 4 LEDs, 2 spaces for LCD screens and finally 2 more potentiometers for controlling the contrast of the screens. The group measured the dimensions of the electrical components with calipers and put together the following control panel that will be used to control the system. The control panel also was in need of a back plate that could be removed that would allow someone to connect wires to the electrical components. There was also a need for braces that would keep the LCD screens in place to assure that they would be flush with the front surface of the control panel for a smooth exterior look. The tolerances were tight enough for the smaller components, so they did not need braces to be held into place. The drawing file of the control panel, back plate, internal braces, and assembly drawing is shown below and is accomanied with a link to OnShape.
 
@@ -70,7 +75,10 @@ Once the measuremnet tools and feeding systems were designed the only piece rema
 **Link for Onshape Control Panel Files:**   
 https://cad.onshape.com/documents/7f8683062ff1f39808deca4c/w/c8f5f551fcbae8743f684af5/e/5d18dd19f17cefe8056f8dae    
 
-
+**Picture of Final Control Panel:**
+<p align="center">
+  <img src="https://github.com/elibarrow/Final-Project/blob/main/Real%20Pictures/IMG_3663.jpg" width = 50%>
+</p>
 
  
 
@@ -105,6 +113,10 @@ https://github.com/elibarrow/Final-Project/blob/main/Feeding%20System%20Document
 
  The assembly part of this project was mostly simple. We had already created the schematics of the wiring and had previously uploaded the code to the Arduino boards. The 3d printed parts had already been confirmed to fit properly together, so there was no worry associated with that aspect. One minor issue that we ran into while assembly the final product was that we needed a few longer wires to connect everything together because of the size of the two arduino boards, but this was a simple fix of just ordering some longer wires. The final minor issue that we ran into was the wires not staying put into the breadboard or staying attached to the pins on the button, we just made sure that everything was properly connected before testing out project. If this problem became serious enough we could have sodlered the connections together, which would have completely gotten rid of this issue.
 
+ **Picture of Finished Project on the Fish Tank:**
+<p align="center">
+  <img src="https://github.com/elibarrow/Final-Project/blob/main/Real%20Pictures/IMG_3662.jpg" width = 50%>
+</p>
  
 
 ## Test Description
