@@ -10,8 +10,10 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
 
 ## Design Description
 
- Materials:
- *
+ Materials:  
+ For this project the materials needed are simple electrical components as well as the ability to access a 3D printer to print off some of the larger mechanical parts of the system.
+ The electrical components needed are:
+ 
 
  Design:
 
