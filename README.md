@@ -10,7 +10,7 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
 
 ## Design Description
 
- **Materials:**  
+### Materials:
  For this project the materials needed are simple electrical components as well as the ability to access a 3D printer to print the larger mechanical parts of the system.
  The electrical components needed are:
  - 2 Arduino Uno Boards with Breadboards
@@ -29,7 +29,7 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
  - 3 10 kOhm Resistor
  
 
- **Physical Design:**   
+ ### Physical Design: 
 
 The design of the feeding system was a small hopper with an auger in the bottom of it that would be turned by a stepper motor to slowly push the food out of the front of the hopper body. There is a hole that runs from the back of the hopper body to the front of the hopper body where the auger slides into, with a stop being placed on the front side that does not allow the auger to slide all the way through. Below this stop is the funnel shape that the food will slide down into the tank to reach the fish. The base of the auger is specially designed to allow the shaft of the stepper motor to mate into the auger, connecting the two for a smooth rotational motion. The stepper motor came with a screw mounting bracket on each side, we then measured the size of those holes with calipers then created two extrusions on the back side of the hopper that would be used to mount the stepper motor. Then finally for a flush fit of the auger with the back wall of the hopper body some spacers were needed to be put on the shaft to create the proper offset of the stepper motor. The type of food that is normally given to the fish is very small spherical pellets that would almost flow fluidly in a system like this, so this design is what the team moved forward with. There was also a need for the hopper to be mounted to the back glass of the fish tank since there is no spot for the hopper to sit on top of the lid, so the team designed a bracket that mounts to the back glass of the tank for the hopper/feeding system to sit on. The design drawings of the Hopper, Bracket, Auger, and Spacers are shown below, as well as links to the online design file through OnShape, where the .stl files can be exported for 3D printing purposes.
 
@@ -74,7 +74,7 @@ https://cad.onshape.com/documents/7f8683062ff1f39808deca4c/w/c8f5f551fcbae8743f6
 
  
 
- **Circuits:**
+ ### Circuits:
 For our project, we used two seperate Arduinos to run everything. One Arduino controlled the temperature and water level system and the other controlled the feeder system. These Arduinos are not in communication with eachother. We thought this would be best in order to simplify the code, and if one system failed to work, the other one could still work.
 
 <p align="center">
@@ -91,9 +91,9 @@ The above schematic is for the temperature and water level sensor system. It use
 
 The above schematic is for the temperature and water level sensor system. It uses an Arduino Uno Board, a common breadboard, a 10kOhm precision resistor, four 1kOhm resistor, two red LEDs, two green LEDs, a thermistor, a potentiometer, a float switch, and a LCD screen. The potentiometer is to control the contrast of the LCD screen. This screen displays both the temperature and the water level information.
 
- Code:
+ ### Code: ###
 
- Assembly:
+ ### Assembly:###
 
  
 
