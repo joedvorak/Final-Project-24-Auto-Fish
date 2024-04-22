@@ -33,6 +33,12 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
 
 The design of the feeding system was a small hopper with an auger in the bottom of it that would be turned by a stepper motor to slowly push the food out of the front of the hopper body. There is a hole that runs from the back of the hopper body to the front of the hopper body where the auger slides into, with a stop being placed on the front side that does not allow the auger to slide all the way through. Below this stop is the funnel shape that the food will slide down into the tank to reach the fish. The base of the auger is specially designed to allow the shaft of the stepper motor to mate into the auger, connecting the two for a smooth rotational motion. The stepper motor came with a screw mounting bracket on each side, we then measured the size of those holes with calipers then created two extrusions on the back side of the hopper that would be used to mount the stepper motor. Then finally for a flush fit of the auger with the back wall of the hopper body some spacers were needed to be put on the shaft to create the proper offset of the stepper motor. The type of food that is normally given to the fish is very small spherical pellets that would almost flow fluidly in a system like this, so this design is what the team moved forward with. There was also a need for the hopper to be mounted to the back glass of the fish tank since there is no spot for the hopper to sit on top of the lid, so the team designed a bracket that mounts to the back glass of the tank for the hopper/feeding system to sit on. The design drawings of the Hopper, Bracket, Auger, and Spacers are shown below, as well as links to the online design file through OnShape, where the .stl files can be exported for 3D printing purposes.
 
+<p align="center">
+  <img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Feeder/Feeder/Hopper.png" width = 50%><img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Feeder/Auger%20%26%20HexSpacer/Auger.png" width = 50%>
+</p>
+<p align="center">
+  <img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Feeder/Feeder%20Bracket/HOPPER%20STAND.png" width = 50%><img src="https://github.com/elibarrow/Final-Project/blob/main/3d%20Printed%20Files/Feeder/Assembly/Feeding%20Assembly.png" width = 50%>
+</p>
 
  
 
