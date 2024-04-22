@@ -10,14 +10,14 @@ Our BAE305 project is for an aquarium monitoring and feeding system. The system 
 
 ## Design Description
 
- Materials:  
+ **Materials:**  
  For this project the materials needed are simple electrical components as well as the ability to access a 3D printer to print off some of the larger mechanical parts of the system.
  The electrical components needed are:
  
 
- Design:
+ **Design:**
 
- Circuits:
+ **Circuits:**
 For our project, we used two seperate Arduinos to run everything. One Arduino controlled the temperature and water level system and the other controlled the feeder system. These Arduinos are not in communication with eachother. We thought this would be best in order to simplify the code, and if one system failed to work, the other one could still work.
 
 <p align="center">
