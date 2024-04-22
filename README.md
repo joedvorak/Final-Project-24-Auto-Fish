@@ -103,6 +103,8 @@ https://github.com/elibarrow/Final-Project/blob/main/Feeding%20System%20Document
 
  ### Assembly:###
 
+ The assembly part of this project was mostly simple. We had already created the schematics of the wiring and had previously uploaded the code to the Arduino boards. The 3d printed parts had already been confirmed to fit properly together, so there was no worry associated with that aspect. One minor issue that we ran into while assembly the final product was that we needed a few longer wires to connect everything together because of the size of the two arduino boards, but this was a simple fix of just ordering some longer wires. The final minor issue that we ran into was the wires not staying put into the breadboard or staying attached to the pins on the button, we just made sure that everything was properly connected before testing out project. If this problem became serious enough we could have sodlered the connections together, which would have completely gotten rid of this issue.
+
  
 
 ## Test Description
