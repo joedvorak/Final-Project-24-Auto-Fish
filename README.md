@@ -93,6 +93,14 @@ The above schematic is for the temperature and water level sensor system. It use
 
  ### Code: ###
 
+ Sine the code for our project is a few hundred lines long, it will be included in links below to another section in this repository. Both of these links are the .INO files that can be downloaded and ran in the arduino software.    
+ **Link for Feeder Code:**   
+https://github.com/elibarrow/Final-Project/blob/main/Feeding%20System%20Documents/Final%20Code%20for%20Feeder%20%26%20LCD/Code/DC.LCD.ino   
+
+ **Link for Monitoring Code:**   
+ https://github.com/elibarrow/Final-Project/blob/main/Monitoring%20System%20Documents/Temp%20%26%20Water%20Level%20Circuit/Code/Temp.FloatSwitch.ino
+
+
  ### Assembly:###
 
  
